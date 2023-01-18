@@ -15,4 +15,4 @@ douteux ou manque de confiance en soi (defaut) => douter et penser avant d agir
 bavard (defaut) => questionner tout et exagerer les details pour perfection
 lent (defaut) => eviter au max les fautes/erreurs d inattention
 autoritaire (defaut) => mais un prenneur de decision; leader et non pas un boss
-
+ NO BONK
